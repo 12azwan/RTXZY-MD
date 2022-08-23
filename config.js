@@ -6,7 +6,7 @@ global.mods = ['6283181341902']
 global.prems = ['6283181341902'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ wanzz 
+global.nameowner = '⫹⫺ wanzz' 
 global.numberowner = '6283181341902'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
